@@ -1,0 +1,75 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global styles */
+div {
+    background-color: black;
+    border: 5px solid black;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: #333;
+}
+
+/* Header styles */
+header {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.pr {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    border: 2px solid white;
+}
+
+.header-title {
+    color: #FF8C00;
+}
+
+.contact-email {
+    text-decoration: none;
+    color: white;
+}
+
+/* About section styles */
+div {
+    border: 5px;
+}
+.about-title {
+    color: white;
+    text-align: center;
+}
+
+.about-container {
+    font-size: 17px;
+}
+
+.bio {
+    color: white;
+    text-align: left;
+}
+
+.bio-link {
+    text-decoration: none;
+    color: orange;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: 0;
+    background-color: black;
+    color: #fff;
+}
+.footer-link {
+    text-decoration: none;
+    color: orange;
+}
